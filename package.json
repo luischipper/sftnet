@@ -40,7 +40,7 @@
     "react-pro-sidebar": "^0.4.3",
     "react-router-dom": "^5.2.0",
     "react-widgets": "^4.6.0",
-    "react-widgets-date-fns": "^5.0.0",
+    "react-widgets-date-fns": "^5.0.1",
     "revalidate": "^1.2.0",
     "selenium-webdriver": "^4.0.0-alpha.8",
     "semantic-ui-css": "^2.4.1",
