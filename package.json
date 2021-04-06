@@ -39,7 +39,7 @@
     "react-leaflet": "^2.7.0",
     "react-pro-sidebar": "^0.4.3",
     "react-router-dom": "^5.2.0",
-    "react-widgets": "^5.0.1",
+    "react-widgets": "^5.0.2",
     "react-widgets-date-fns": "^4.1.1",
     "revalidate": "^1.2.0",
     "selenium-webdriver": "^4.0.0-alpha.8",
