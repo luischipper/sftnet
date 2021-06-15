@@ -22,7 +22,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
-    "chromedriver": "^87.0.5",
+    "chromedriver": "^91.0.1",
     "date-fns": "^2.16.1",
     "faker": "^5.1.0",
     "final-form": "^4.20.1",
